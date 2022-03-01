@@ -244,30 +244,24 @@ console.log(localStorage)
              dv_ar_time1.className = 'dv_ar_time1'
              dv_ar_time2.className = 'dv_ar_time2'
 
-            //  console.log(ar_time1[x])
-            //  console.log(ar_time2[x])
-
-            // if( ar_time1[x] === ar_time2[x] )
-            // {
-            //     console.log(ar_time1[x])
-            // }
+            true_check_box.style = 'display:none'
      
 
             ////////////////////////
-            if( ch_data.childNodes[2].innerHTML === ch_data.childNodes[3].innerHTML )
-            { 
-                ch_data.childNodes[2].parentElement.classList.add('xx')
-                ch_data.childNodes[3].style = 'font-Weight:bold ; color:red'
+            // if( ch_data.childNodes[2].innerHTML === ch_data.childNodes[3].innerHTML )
+            // { 
+            //     ch_data.childNodes[2].parentElement.classList.add('xx')
+            //     ch_data.childNodes[3].style = 'font-Weight:bold ; color:red'
 
-                // ch_data.childNodes[3].style.color = 'red'
-                // console.log(ch_data.childNodes[2].innerHTML)
-                // ch_data.childNodes[3].innerHTML = 'Done'
-            }
+            //     // ch_data.childNodes[3].style.color = 'red'
+            //     // console.log(ch_data.childNodes[2].innerHTML)
+            //     // ch_data.childNodes[3].innerHTML = 'Done'
+            // }
 
-            if(ch_data.classList.contains('xx'))
-            { 
-                ch_data.childNodes[0].childNodes[0].childNodes[0].style.display = 'grid'
-            }
+            // if(ch_data.classList.contains('xx'))
+            // { 
+            //     ch_data.childNodes[0].childNodes[0].childNodes[0].style.display = 'grid'
+            // }
             ////////////////////////
 
             
@@ -292,7 +286,11 @@ console.log(localStorage)
     }
 
  
+ sec.childNodes[0].childNodes[0].childNodes[0].childNodes[0].style = 'display:grid'
+ sec.childNodes[1].childNodes[0].childNodes[0].childNodes[0].style = 'display:grid'
+ sec.childNodes[2].childNodes[0].childNodes[0].childNodes[0].style = 'display:grid'
 
+ 
 
 
 
