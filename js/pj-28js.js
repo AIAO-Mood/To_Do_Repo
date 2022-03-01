@@ -283,6 +283,25 @@ console.log(localStorage)
 
     }
 
+    sec.childNodes[0].style = 'background:#e4d6eb'
+    sec.childNodes[1].style = 'background:#e4d6eb'
+    sec.childNodes[2].style = 'background:#e4d6eb'
+    sec.childNodes[3].style = 'background:#d1ecfb'
+    sec.childNodes[4].style = 'background:#d1ecfb'
+    sec.childNodes[5].style = 'background:#d1ecfb'
+    sec.childNodes[6].style = 'background:#d8f9ed'
+    sec.childNodes[7].style = 'background:#d8f9ed'
+    sec.childNodes[8].style = 'background:#fee1cc'
+    sec.childNodes[9].style = 'background:#fee1cc'
+    sec.childNodes[10].style = 'background:#fbf4eb'
+    sec.childNodes[11].style = 'background:#bae3e5'
+    sec.childNodes[12].style = 'background:#d3d7d8'
+    sec.childNodes[13].style = 'background:#f8f1d1'
+    sec.childNodes[14].style = 'background:#f4e2dd'
+    sec.childNodes[15].style = 'background:#e9fee9'
+
+
+
  
  sec.childNodes[0].childNodes[0].childNodes[0].childNodes[0].style = 'display:grid'
  sec.childNodes[1].childNodes[0].childNodes[0].childNodes[0].style = 'display:grid'
