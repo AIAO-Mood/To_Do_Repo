@@ -159,7 +159,7 @@ console.log(localStorage)
                          ' unit test with jest course',
                          ' type script course',
                          ' jquery course',
-                         ' react.js course',
+                         ' angular course',
                          ' pug.js course',
                          ' gulp.js course',
                          ' three.js course',
@@ -169,16 +169,14 @@ console.log(localStorage)
                          ' mysql course',
                          ' laravel course'
                                   ]
-
-
     let ar_time1 = [ '30/2', 
                     '30/2',
                     '30/2', 
                     '30/3',
                     '30/3', 
+                    '30/3', 
                     '30/4', 
-                    '30/4', 
-                    '30/5',
+                    '30/4',
                     '30/5',
                     '30/5',
                     '30/6',
